@@ -9,7 +9,7 @@
 ### data目录数据说明 
 xinhua.csv 新华字典 带偏旁、笔画、拼音  
 wuxing_dict_fanti.json  汉字按照 五行 繁体笔画 进行排列  
-wuxing_dict_jianti.json 案子按照五行 简体笔画 进行排列  
+wuxing_dict_jianti.json 汉字按照五行 简体笔画 进行排列  
 word.json 汉字全量  
 sancai.txt  不同三才组合的吉凶判定  
 
